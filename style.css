@@ -1,0 +1,19 @@
+.intro1{
+    background-image: url("banner-01.jpg");
+    background-size: cover;
+    height: 700px;
+    
+}
+.intro2{
+    color: white;
+    position: relative;
+    top: 200px;
+    left: 230px;
+    max-width: 600px;
+}
+.head3{
+    display: flex;
+    margin: 150px;
+    gap: 30px;
+
+}
