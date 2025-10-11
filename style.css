@@ -1,3 +1,21 @@
+.head1{
+    position: relative;
+    left: 100px;
+    max-width: 1250px;
+    
+}
+
+.head2{
+    display: flex;
+    position: relative;
+    left: 100px;
+    max-width: 1250px;
+    
+}
+header div ul{
+    display: flex;
+    width:;
+}
 .intro1{
     background-image: url("banner-01.jpg");
     background-size: cover;
@@ -12,8 +30,23 @@
     max-width: 600px;
 }
 .head3{
-    display: flex;
+    
     margin: 150px;
     gap: 30px;
 
+}
+.In1{
+    border: 1px solid grey;
+    padding: 20px;
+    border-radius: 5px;
+}
+.In2{
+    border: 2px solid grey;
+    padding: 30px 100px 10px 30px;
+    border-radius: 10px;
+}
+.backg2{
+    background-image: url("video-bg.jpg");
+    background-size: cover;
+    height: 600px;
 }
