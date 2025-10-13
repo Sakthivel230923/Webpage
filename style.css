@@ -50,3 +50,6 @@ header div ul{
     background-size: cover;
     height: 600px;
 }
+.arr{
+    display: flex;
+}
