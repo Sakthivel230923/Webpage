@@ -1,0 +1,18 @@
+.homehover {
+  text-decoration: none;
+  color: black;
+}
+
+.homehover:hover {
+  color: orangered;
+}
+.homeover {
+  text-decoration: none;
+  color: black;
+}
+.head2 {
+  display: flex;
+  position: relative;
+  left: 100px;
+  max-width: 1250px;
+}

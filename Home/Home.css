@@ -1,0 +1,86 @@
+.head1 {
+  display: flex;
+  justify-content: space-between;
+}
+
+.head2 {
+  display: flex;
+  position: relative;
+  left: 100px;
+  max-width: 1250px;
+}
+header div ul {
+  display: flex;
+}
+.intro1 {
+  background-image: url("../Images/banner-01.jpg");
+  background-size: cover;
+  height: 700px;
+}
+.intro2 {
+  color: white;
+  position: relative;
+  top: 200px;
+  left: 230px;
+  max-width: 600px;
+}
+.head3 {
+  margin: 150px;
+  gap: 30px;
+}
+.In1 {
+  border: 1px solid grey;
+  padding: 20px;
+  border-radius: 5px;
+}
+.In2 {
+  border: 2px solid grey;
+  padding: 40px;
+  max-height: 21rem;
+  max-width: 30rem;
+  border-radius: 10px;
+  box-shadow: 0 0 10px grey;
+  border: none;
+}
+.backg2 {
+  background-image: url("../Images/video-bg.jpg");
+  background-size: cover;
+  height: 600px;
+}
+.arr1 {
+  display: flex;
+  border: none;
+  color: white;
+  background-color: black;
+  padding: 1rem 2rem;
+  border-radius: 10px;
+  font-weight: 500;
+}
+.arr1:hover {
+  background-color: orangered !important;
+}
+
+.homehover {
+  text-decoration: none;
+  color: black;
+}
+
+.homehover:hover {
+  color: orangered;
+}
+.homeover {
+  text-decoration: none;
+  color: black;
+}
+.vid1 {
+  border-radius: 10px;
+}
+.schedulevisit button:hover{
+  background-color: orangered;
+}
+.formd{
+  border-radius: 20px;
+  height: 25px;
+  width: 17rem;
+  padding: 3px;
+}
