@@ -16,3 +16,24 @@
   left: 100px;
   max-width: 1250px;
 }
+.contentshow{
+    border: 1px solid grey;
+    padding: 10px 20px;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+}
+.contentshow:hover{
+    background-color: orangered;
+}
+.page{
+    border: 1px solid grey;
+    max-width: 10px;
+    padding: 5px 10px;
+    border-radius: 50%;
+    background-color: black;
+    color: white;
+}
+.page:hover{
+    background-color: orangered;
+}
