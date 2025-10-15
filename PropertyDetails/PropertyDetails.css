@@ -1,0 +1,16 @@
+.head2 {
+  display: flex;
+  position: relative;
+  left: 100px;
+  max-width: 1250px;
+}
+.In2 {
+  border: 2px solid grey;
+  padding: 45px;
+  max-height: 21rem;
+  max-width: 30rem;
+  border-radius: 10px;
+  box-shadow: 0 0 10px grey;
+  border: none;
+  width: 300px;
+}
