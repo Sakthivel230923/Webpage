@@ -14,3 +14,18 @@
   border: none;
   width: 300px;
 }
+.arr1 {
+  display: flex;
+  border: none;
+  color: white;
+  background-color: black;
+  padding: 1rem 2rem;
+  border-radius: 10px;
+  font-weight: 500;
+}
+.arr1:hover {
+  background-color: orangered !important;
+}
+.schedulevisit button:hover{
+  background-color: orangered;
+}
