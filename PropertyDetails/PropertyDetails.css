@@ -29,3 +29,15 @@
 .schedulevisit button:hover{
   background-color: orangered;
 }
+.homehover {
+  text-decoration: none;
+  color: black;
+}
+
+.homehover:hover {
+  color: orangered;
+}
+.homeover {
+  text-decoration: none;
+  color: black;
+}
