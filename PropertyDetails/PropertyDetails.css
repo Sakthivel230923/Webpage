@@ -27,7 +27,7 @@
   background-color: orangered !important;
 }
 .schedulevisit button:hover{
-  background-color: orangered;
+  background-color: orangered !important;
 }
 .homehover {
   text-decoration: none;

@@ -37,3 +37,13 @@
 .page:hover{
     background-color: orangered;
 }
+.buttonclick{
+  border: 1px solid grey;
+  border-radius: 20px;
+  padding: 5px 18px;
+  background-color: black;
+  color: white;
+}
+.buttonclick:hover{
+  background-color: orangered !important;
+}

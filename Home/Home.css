@@ -25,22 +25,27 @@ header div ul {
   max-width: 600px;
 }
 .head3 {
-  margin: 150px;
-  gap: 30px;
+  margin: 80px;
+  gap: 80px;
+  position: relative;
+  left: -70px;
 }
 .In1 {
   border: 1px solid grey;
   padding: 20px;
   border-radius: 5px;
+  background-color: #f8f9fa;
 }
 .In2 {
   border: 2px solid grey;
-  padding: 40px;
+  padding: 20px 80px 40px 40px;
   max-height: 21rem;
   max-width: 30rem;
   border-radius: 10px;
   box-shadow: 0 0 10px grey;
   border: none;
+  position: relative;
+  top: 40px;
 }
 .backg2 {
   background-image: url("../Images/video-bg.jpg");
@@ -76,11 +81,22 @@ header div ul {
   border-radius: 10px;
 }
 .schedulevisit button:hover{
-  background-color: orangered;
+  background-color: orangered !important;
 }
 .formd{
   border-radius: 20px;
   height: 25px;
   width: 17rem;
   padding: 3px;
+  background-color: #f8f9fa;
+}
+.buttonclick{
+  border: 1px solid grey;
+  border-radius: 20px;
+  padding: 5px 18px;
+  background-color: black;
+  color: white;
+}
+.buttonclick:hover{
+  background-color: orangered !important;
 }
